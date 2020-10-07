@@ -17,7 +17,7 @@ Python est sous licence libre.
 « Il faut treize paragraphes pour expliquer un Hello, World! en C++, seulement deux en Python »
 
 ~~~ Python
-print("Hello, world!!!")
+print("Hello, world!")
 ~~~
 
 C'est un langage [polyvalent](https://www.jetbrains.com/lp/devecosystem-2019/python/) et [populaire](http://pypl.github.io/PYPL.html). De nombreuses enquêtes d'usage le donne comme grand gagnant ces dernières années, c'est probablement la raison pour laquelle ce cours a lieu.
